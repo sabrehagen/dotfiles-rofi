@@ -1,0 +1,7 @@
+configuration {
+  modi: "window,run,ssh,drun,clipboard:greenclip print";
+  theme: "./theme.rasi";
+  font: "Source Code for Powerline 12";
+  display-drun: "run";
+  matching: "fuzzy";
+}
